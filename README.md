@@ -1,4 +1,4 @@
-## Oiii eu sou a Guerbisson Simonvil, Engenheiro de Produção, Cientista de Dados!
+## Oiii eu sou o Guerbisson Simonvil, Engenheiro de Produção, Cientista de Dados!
 <div align="center">
   <a href="https://github.com/GUERBISSON">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GUERBISSON&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
