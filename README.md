@@ -1,4 +1,4 @@
-## Oiii eu sou o Guerbisson Simonvil, Engenheiro de Produção, Cientista de Dados!
+## Sou Engenheiro de Produção e um Cientista de Dados em formação, que busca fornecer informações valiosas através da análise de dados e métodos avançados baseados em Estatística, Machine Learning e Business Analytics.
 <div align="center">
   <a href="https://github.com/GUERBISSON">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GUERBISSON&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
