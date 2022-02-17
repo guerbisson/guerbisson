@@ -1,4 +1,4 @@
-## Sou Engenheiro de Produção e um Cientista de Dados em formação, que busca fornecer informações valiosas através de Análise das Regras de Negócio, Modelagem, Extração, Pipeline de Dados e Insights estratégicos, extraídos de variadas fontes, com habilidades para reconhecimento e entendimento com Soluções, das dores de Negócios, com Implementação Técnica.
+## Engenheiro de produção de formação, venho me especializando em programação voltada a Ciência de Dados, Machine Learning e Business Intelligence. Fluente em francês. Conhecimento avançado em R, Python, SQL, além de intermediário em SAS.
 <div align="center">
   <a href="https://github.com/guerbisson">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guerbisson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
