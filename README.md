@@ -12,7 +12,7 @@
 
 <br />
 
-##hi, i'm [Guerbisson]Engenheiro de produção de formação, venho me especializando em programação voltada a Ciência de Dados, Machine Learning e Business Intelligence. Fluente em francês. Conhecimento avançado em R, Python, SQL, além de intermediário em SAS.
+hi, i'm [Guerbisson]Engenheiro de produção de formação, venho me especializando em programação voltada a Ciência de Dados, Machine Learning e Business Intelligence. Fluente em francês. Conhecimento avançado em R, Python, SQL, além de intermediário em SAS.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -25,6 +25,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img 
 
 href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a 
