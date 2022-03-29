@@ -14,7 +14,6 @@
 
 <br />
 
-hi, i'm Guerbisson Engenheiro de produção de formação, venho me especializando em programação voltada a Ciência de Dados, Machine Learning e Business Intelligence. Fluente em francês. Conhecimento avançado em R, Python, SQL, além de intermediário em SAS.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
