@@ -1,4 +1,4 @@
-##### Engenheiro de produção de formação, venho me especializando em programação voltada a Ciência de Dados, Machine Learning e Business Intelligence. Fluente em francês. Conhecimento avançado em R, Python, SQL, além de intermediário em SAS.
+#### Engenheiro de produção de formação, venho me especializando em programação voltada a Ciência de Dados, Machine Learning e Business Intelligence. Fluente em francês. Conhecimento avançado em R, Python, SQL, além de intermediário em SAS.
 <div align="center">
   <a href="https://github.com/guerbisson">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guerbisson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -8,11 +8,8 @@
   
    <img align="center" alt="gs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="gs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="gs-CSS" height="30" width="40" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
   <img align="center" alt="gs-CSS" height="30" width="40" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img align="center" alt="gs-CSS" height="30" width="40" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img align="center" alt="gs-CSS" height="30" width="40" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img align="center" alt="gs-CSS" height="30" width="40" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="gs-CSS" height="30" width="40" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="gs-CSS" height="30" width="40" src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img align="center" alt="gs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
