@@ -1,4 +1,4 @@
-## Engenheiro de produção de formação, venho me especializando em programação voltada a Ciência de Dados, Machine Learning e Business Intelligence. Fluente em francês. Conhecimento avançado em R, Python, SQL, além de intermediário em SAS.
+# Engenheiro de produção de formação, venho me especializando em programação voltada a Ciência de Dados, Machine Learning e Business Intelligence. Fluente em francês. Conhecimento avançado em R, Python, SQL, além de intermediário em SAS.
 <div align="center">
   <a href="https://github.com/guerbisson">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guerbisson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
