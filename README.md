@@ -1,4 +1,4 @@
-#Oi, Eu sou  Guerbisson Engenheiro de produção de formação, venho me especializando em programação voltada a Ciência de Dados, Machine Learning e Business Intelligence. Fluente em francês. Conhecimento avançado em R, Python, SQL, além de intermediário em SAS.
+Oi, Eu sou  Guerbisson Engenheiro de produção de formação, venho me especializando em programação voltada a Ciência de Dados, Machine Learning e Business Intelligence. Fluente em francês. Conhecimento avançado em R, Python, SQL, além de intermediário em SAS.
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.instagram.com/guerbisson_/">
